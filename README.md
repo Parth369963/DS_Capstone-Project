@@ -24,4 +24,4 @@ Documentation: A well-structured and organized documentation, including a README
 
 Codebase: A collection of well-commented, modular, and reusable code files, written in a programming language such as Python, R, or Julia, facilitating reproducibility and further exploration by other data scientists.
 
-![Uploading d9af8e67592863.5b6a4638e247b.gif…]()
+![d9af8e67592863 5b6a4638e247b](https://github.com/Parth369963/DS_Capstone-Project/assets/110351235/8c78dfff-e55c-4899-a5c6-4fd1a6476d1e)
