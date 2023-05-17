@@ -1,3 +1,11 @@
+![ViewCount](https://views.whatilearened.today/views/github/Parth369963/DS_Capstone-Project.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/Parth369963/DS_Capstone-Project?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/Parth369963/DS_Capstone-Project?style=flat)
+![Stars Badge](https://img.shields.io/github/stars/Parth369963/DS_Capstone-Project?style=flat)
+![Forks Badge](https://img.shields.io/github/forks/Parth369963/DS_Capstone-Project?style=flat)
+![Pull Requests Badge](https://img.shields.io/github/issues-pr/Parth369963/DS_Capstone-Project?style=flat)
+[![Total Downloads](https://img.shields.io/github/downloads/Parth369963/DS_Capstone-Project/total.svg)](https://github.com/Parth369963/DS_Capstone-Project/releases/)
+
 # DS_Capstone-Project
 
 #### The repository encompasses a diverse range of data science techniques, tools, and methodologies, providing an all-encompassing approach to problem-solving using data-driven insights. It showcases the step-by-step process followed by the data scientist to tackle a real-world problem, from data acquisition and preprocessing to model development, evaluation, and deployment.
